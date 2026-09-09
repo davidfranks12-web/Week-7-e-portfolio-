@@ -3,13 +3,13 @@ A collection of Artefacts and reflections on my understanding of Intellectual Pr
 
 ## Artefact 1:
 A report by 9 News concerning the recent banning of AI music on the Aria music chart Australia.
-![Screenshot 1](Screenshot (159).png) 
+![Screenshot 1](Screenshot1.png) 
 ## Description:
 This report covers the ARIA music charts recent decision to no longer allow AI generated content to place on their top charts (9 News Australia 2024). This action seems a bit performative to me on the surface, but I think it is a necessary step in the right direction. These songs have not obtained permission to use the content that the AI is trained on, and some of the material being used is itself copyrighted material. This a great example of setting a precedent when you can’t easily enforce a law, and shows how an organisation can take a stance against immoral practices.
 
 ## Artefact 2:
 The article explores the peer-to-peer sharing platform Napster, and the lawsuit filed against them by the Recording Industry Association of America (RIAA) in 1990.
-
+![Screenshot 2](Screenshot2.png) 
 ## Description:
 After early edits of the single “I Disappear” were leaked to radio stations around the world, popular band “Metallica” publicly joined the dispute on the side of the RIAA (Law 2021). This case is fascinating to me due to the difference in public opinion, to the opinion those that were negatively impacted by it. Though Metallica and the music industries were indeed losing revenue, public opinion was AGAINST this case, despite the case itself being lawful. The band Metallica, once seen as a counter culture icons, was instead seen as the public face of multi-million dollar corporations punishing limited income fans. To me this shows the public will agree that ethically “it is wrong to steal for someone”, however they will also have a hidden condition to that statement: “unless they deserve it”.
 
@@ -21,7 +21,7 @@ An honestly somewhat confronting read about the current climate in Australia in 
 
 ## Artefact 4:
 A reflection on the discussion we had in our workshop regarding intellectual property.
-
+![Screenshot 2](Screenshot3.png) 
 ## Description:
 In this workshop the discussion covered many interesting topics. Of particular note to myself we covered photographer David Slater and his controversial case of the “Selfie Monkey”. This case was fascinating to me because, unlike most other cases regarding intellectual property, the issue wasn’t directly about money. The concerns that were being raised appeared to be purely ethical, and the solution of the photographer donating the proceeds of the photo to charity was also ethical. It shows an interesting scenario where no laws were broken, no money was stolen, nobody was harmed and yet to some extent something was still being taken advantage of. This tells me that it is possible to ethically compromise the “rights” of something that legally has none, as what is lawful and what is ethical often don’t align.
 
