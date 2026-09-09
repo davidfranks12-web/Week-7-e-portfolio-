@@ -10,8 +10,8 @@ A report by 9 News concerning the recent banning of AI music on the Aria music c
 This report covers the ARIA music charts recent decision to no longer allow AI generated content to place on their top charts (9 News Australia 2024). This action seems a bit performative to me on the surface, but I think it is a necessary step in the right direction. These songs have not obtained permission to use the content that the AI is trained on, and some of the material being used is itself copyrighted material. This a great example of setting a precedent when you can’t easily enforce a law, and shows how an organisation can take a stance against immoral practices.
 
 ## Artefact 2:
-## Justification:
 ![Screenshot 2](Screenshot2.png) 
+## Justification:
 The article explores the peer-to-peer sharing platform Napster, and the lawsuit filed against them by the Recording Industry Association of America (RIAA) in 1990.
 
 ## Description:
