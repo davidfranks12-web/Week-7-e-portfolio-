@@ -10,7 +10,7 @@ This report covers the ARIA music charts recent decision to no longer allow AI g
 ## Artefact 2:
 The article explores the peer-to-peer sharing platform Napster, and the lawsuit filed against them by the Recording Industry Association of America (RIAA) in 1990.
 
-Description:
+## Description:
 After early edits of the single “I Disappear” were leaked to radio stations around the world, popular band “Metallica” publicly joined the dispute on the side of the RIAA. This case is fascinating to me due to the difference in public opinion, to the opinion those that were negatively impacted by it. Though Metallica and the music industries were indeed losing revenue, public opinion was AGAINST this case, despite the case itself being lawful. The band Metallica, once seen as a counter culture icons, was instead seen as the public face of multi-million dollar corporations punishing limited income fans. To me this shows the public will agree that ethically “it is wrong to steal for someone”, however they will also have a hidden condition to that statement: “unless they deserve it”.
 
 ## Artefact 3:
@@ -26,7 +26,7 @@ A reflection on the discussion we had in our workshop regarding intellectual pro
 In this workshop the discussion covered many interesting topics. Of particular note to myself we covered photographer David Slater and his controversial case of the “Selfie Monkey”. This case was fascinating to me because, unlike most other cases regarding intellectual property, the issue wasn’t directly about money. The concerns that were being raised appeared to be purely ethical, and the solution of the photographer donating the proceeds of the photo to charity was also ethical. It shows an interesting scenario where no laws were broken, no money was stolen, nobody was harmed and yet to some extent something was still being taken advantage of. This tells me that it is possible to ethically compromise the “rights” of something that legally has none, as what is lawful and what is ethical often don’t align.
 
 # References
-9 News Australia 2024 *AI songs banned from music charts in Australia.* YouTube video, viewed 9 September 2026, Available at: https://www.youtube.com/watch?v=rJofUpok9O8
+9 News Australia 2024 *AI songs banned from music charts in Australia.* viewed 9 September 2026, Available at: https://www.youtube.com/watch?v=rJofUpok9O8
 
 Bennett, D and Robins, 2025 *Generative AI in higher education: policy challenges and institutional responses.* Journal of Higher Education Policy and Management, 47(3), pp. 245–260. viewed 9 September, Available at: https://www.tandfonline.com/doi/epdf/10.1080/13600869.2025.2486893?needAccess=true
 Law, S 2021 *Metallica vs. Napster: The lawsuit that redefined how we listen to music.* Kerrang!, viewed 9 September 2026, Available at: https://www.kerrang.com/metallica-vs-napster-the-lawsuit-that-redefined-how-we-listen-to-music
