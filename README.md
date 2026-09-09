@@ -15,13 +15,13 @@ After early edits of the single “I Disappear” were leaked to radio stations 
 
 ## Artefact 3:
 A Research article discussing the merits, detriments and challenges of copyrighting AI-generated works in Australia.
-
+![Screenshot 3](OIP.webp)
 ## Description:
 An honestly somewhat confronting read about the current climate in Australia in regards to AI-generated content, and the rights of those who make it. Among other points the article makes the argument that AI still needs constant human input to generate content, therefore that human should have some level of rights to the content (Bennett & Robins 2025). I find this article interesting because I find this article infuriating, it makes reasonable arguments on either side, and highlights the grey area that this content occupies. There are no simple answers to this complex issue, and I will likely be working around these limitations often in my career.
 
 ## Artefact 4:
 A reflection on the discussion we had in our workshop regarding intellectual property.
-![Screenshot 2](Screenshot3.png) 
+![Screenshot 4](Screenshot3.png) 
 ## Description:
 In this workshop the discussion covered many interesting topics. Of particular note to myself we covered photographer David Slater and his controversial case of the “Selfie Monkey”. This case was fascinating to me because, unlike most other cases regarding intellectual property, the issue wasn’t directly about money. The concerns that were being raised appeared to be purely ethical, and the solution of the photographer donating the proceeds of the photo to charity was also ethical. It shows an interesting scenario where no laws were broken, no money was stolen, nobody was harmed and yet to some extent something was still being taken advantage of. This tells me that it is possible to ethically compromise the “rights” of something that legally has none, as what is lawful and what is ethical often don’t align.
 
